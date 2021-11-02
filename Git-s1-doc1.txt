@@ -1,0 +1,2 @@
+Primer archivo creado para el reto git de la semana 1
+Autor:Daniel Bedoya
